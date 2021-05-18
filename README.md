@@ -27,7 +27,7 @@ _this is also italic_
     * itemb
   
   
- # links:
+ # links
  
   [google](http://www.google.com)
   
@@ -41,7 +41,7 @@ _this is also italic_
    
   
   
- # Blockquotes
+ # Block quotes
   
   
   >this is blockquotes
@@ -64,9 +64,10 @@ Technology | Percentage
   
   
   
- ## email:
+ ## email
  
   
   (sowmyasree349@gmail.com)
+
 
 :smile:
