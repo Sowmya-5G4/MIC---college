@@ -67,7 +67,7 @@ Technology | Percentage
 ## email
  
   
-  (sowmyasree349@gmail.com)
+  mail id is:[email](sowmyasree349@gmail.com)
 
 
 :smile:
