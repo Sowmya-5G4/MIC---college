@@ -52,8 +52,9 @@ _this is also italic_
   java       |90%
   HTML       |95%
   
-  :smile:
   
-  ## email
+  ## email:
   
   (sowmyasree349@gmail.com)
+
+:smile:
