@@ -27,21 +27,21 @@ _this is also italic_
     * itemb
   
   
- # links
+# links
  
   [google](http://www.google.com)
   
   [github](http://github.com)
   
   
- # images
+# images
 
 
    ![nature](https://i.pinimg.com/564x/a7/3d/6e/a73d6e4ac85c6a822841e449b24c78e1.jpg)
    
   
   
- # Block quotes
+# Block quotes
   
   
   >this is blockquotes
@@ -64,7 +64,7 @@ Technology | Percentage
   
   
   
- ## email
+## email
  
   
   (sowmyasree349@gmail.com)
